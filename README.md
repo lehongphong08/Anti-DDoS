@@ -2,13 +2,17 @@
 anti ddos program
 
 
-#HOW TO USE
+#HOW TO USE 
 
 clone this repo
 
 cd Anti-DDoS
 
 python antiddos.py
+
+or 
+
+add the anti.php to your index
 
 #HOW IT WORK
 
